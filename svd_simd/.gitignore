@@ -1,0 +1,6 @@
+main
+test.o
+test.e
+*.o
+*.out
+files/*
